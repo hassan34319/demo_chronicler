@@ -10,7 +10,7 @@
 - [Development Notes](#development-notes)
 
 ## Overview
-A Next.js 14 collection viewer using the App Router pattern, supporting multiple view types (Grid, List, Table) with server components and client-side interactivity.
+A Next.js 15 collection viewer using the App Router pattern, supporting multiple view types (Grid, List, Table) with server components and client-side interactivity.
 
 ## Project Structure
 ```
