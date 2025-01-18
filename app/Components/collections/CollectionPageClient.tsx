@@ -31,7 +31,7 @@ export default function CollectionsPageClient({ initialCollections }: Collection
   };
 
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white text-black dark:text-black">
       <CollectionsUtilities
         currentView={currentView}
         setCurrentView={setCurrentView}
